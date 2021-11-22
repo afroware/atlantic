@@ -9,7 +9,8 @@
 	<artifactId>atlantic</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>Maven</name>
+	<name>Atlantic Blockchain</name>
+	<packaging>pom</packaging>	
 	<!-- FIXME change it to the project's website -->
 	<url>http://maven.apache.org/</url>
 	<inceptionYear>2001</inceptionYear>
